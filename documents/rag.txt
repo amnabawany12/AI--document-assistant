@@ -1,0 +1,8 @@
+
+Retrieval-Augmented Generation is also called RAG.
+RAG retrieves relevant information from documents
+and provides that information to a language model.
+The language model uses the retrieved information
+to answer the user's question.
+RAG helps AI systems answer questions using specific
+documents instead of relying only on general knowledge.

@@ -1,0 +1,7 @@
+
+Prompt engineering means designing instructions for an AI model.
+Zero-shot prompting asks a question without giving examples.
+Few-shot prompting provides examples to guide the AI.
+Role-based prompting gives the AI a specific role.
+For example, the AI can act as a technical document analyst.
+These techniques help guide the AI's responses.

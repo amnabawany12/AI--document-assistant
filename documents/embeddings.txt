@@ -1,0 +1,7 @@
+
+Embeddings are numerical representations of text.
+They help computers understand and compare the meaning
+of words, sentences, and paragraphs.
+Similar meanings can have nearby representations
+in an embedding space.
+Embeddings are useful for semantic search and AI systems.

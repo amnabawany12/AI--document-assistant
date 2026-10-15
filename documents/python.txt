@@ -1,0 +1,5 @@
+
+Python is a programming language used for automation,
+web development, data analysis, and artificial intelligence.
+Python supports functions, loops, variables, and classes.
+Its readable syntax makes it suitable for beginners.
